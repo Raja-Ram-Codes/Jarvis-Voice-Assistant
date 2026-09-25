@@ -1,4 +1,4 @@
-- SpeechRecognition
-- pyttsx3
-- PyAudio
-- pywin32
+SpeechRecognition
+pyttsx3
+PyAudio
+pywin32
